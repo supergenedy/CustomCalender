@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#051C2C</color>
+    <color name="colorPrimaryDark">#051C2C</color>
+    <color name="colorAccent">#051C2C</color>
+    
+
+    <color name="whiteColor">#fff</color>
+
+    <color name="brownColor">#CEA176</color>
+
+    <color name="brownAlphaColor">#34CEA176</color>
+
+    <color name="blueColor">#0C334E</color>
+    
+    <color name="blueDarkColor">#051C2C</color>
+
+    <color name="grayColor">#ECEDEF</color>
+    
+</resources>
