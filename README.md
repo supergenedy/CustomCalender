@@ -2,10 +2,10 @@
 Custom Calender Component
 
 ### Screenshots:
-<img src="./images/calender.jpg" width="200" height="356">&nbsp;
-<img src="./images/calendar – 1.jpg" width="200" height="356">&nbsp;
-<img src="./images/calendar – 2.jpg" width="200" height="356">&nbsp;
-<img src="./images/calendar – 3.jpg" width="200" height="356">&nbsp;<br>
+<img src="./screenshots/calender.jpg" width="200" height="356">&nbsp;
+<img src="./screenshots/calendar – 1.jpg" width="200" height="356">&nbsp;
+<img src="./screenshots/calendar – 2.jpg" width="200" height="356">&nbsp;
+<img src="./screenshots/calendar – 3.jpg" width="200" height="356">&nbsp;<br>
 
 ### Features:
 - The users can set a max or/and min date.
